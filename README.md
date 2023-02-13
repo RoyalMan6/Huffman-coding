@@ -18,6 +18,7 @@ The original string is:bccabbddaeccbbaeddcc
 
 
 -----------------------------------Frequency-------------------------------
+
 Char:a  Frequency:3
 Char:b  Frequency:5
 Char:c  Frequency:6
@@ -26,6 +27,7 @@ Char:e  Frequency:2
 
 
 -----------------------------------Code-----------------------------------
+
 Char:a  Code:011
 Char:b  Code:10
 Char:c  Code:11
@@ -38,6 +40,7 @@ The decoded string is:bccabbddaeccbbaeddcc
 
 
 -----------------------------------Tree-----------------------------------
+
                                                                 20                                                                                                                              
                                 9                                                              11                                                              
                 d4                              5                              b5                              c6                              
